@@ -92,4 +92,21 @@ Fitness Club Management System — это приложение, предназн
 5. Запустите приложение:
    
    npm start
-   
+
+## ER-диаграма
+А0. Деятельность фитнес-клуба
+
+![image](https://github.com/user-attachments/assets/26662cdc-6e23-4d50-9747-9fa5a785c3ca)
+
+![image](https://github.com/user-attachments/assets/ce1c1eab-57b8-4b3d-a555-c9e00f94693f)
+
+А1. Проведение работы с клиентами
+
+![image](https://github.com/user-attachments/assets/8ee1db34-e2c4-4bfb-bb34-84e9eb40da5a)
+
+А2. Оформление заказов на услуги, продажа товаров
+
+![image](https://github.com/user-attachments/assets/ecda1960-0d09-48db-87d0-a274c12d00bf)
+
+
+![image](https://github.com/user-attachments/assets/0b06ca11-eb1b-48f9-a7c1-1f836948799c)
